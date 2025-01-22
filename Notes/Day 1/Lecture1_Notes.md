@@ -114,3 +114,65 @@ Imagine writing a group essay. Without version control, everyone might overwrite
    ls -a
    ```  
    You should see `.git`, indicating the directory is now a Git repository.  
+
+   ----------------------------------------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------------------------------------
+
+   # Interview Questions and MCQs for Version Control
+
+## Interview Questions:
+
+1. **What is the difference between Git and SVN? Which one would you choose for a collaborative project and why?**
+   - Focus: Understanding the key differences between Git (distributed) and SVN (centralized), and the decision-making process in selecting a version control system based on project needs.
+
+2. **Explain the concept of branching in version control. How does it help in collaboration and experimentation?**
+   - Focus: The candidate's ability to explain branching, how it allows for experimentation, and its role in facilitating parallel development in teams.
+
+3. **What are the advantages of using Git in a team-based project?**
+   - Focus: Knowledge of Git's benefits such as collaboration, history tracking, offline work, and backup/recovery.
+
+4. **Describe a situation where you had to resolve a merge conflict. How did you handle it?**
+   - Focus: Practical experience with merge conflicts in Git, how they occur, and strategies for resolving them effectively.
+
+5. **What is the significance of committing changes in Git? What is the impact of frequent commits versus large, infrequent commits?**
+   - Focus: Understanding Git’s commit mechanism, the best practices for commit frequency, and its impact on project collaboration and history tracking.
+
+---
+
+## Multiple-Choice Questions (MCQs):
+
+1. **What is the primary advantage of a distributed version control system like Git?**
+   - A) All users must always be online to commit changes.
+   - B) Every user has a full copy of the repository and can work offline.
+   - C) It stores all files on a central server.
+   - D) It limits the ability to work on a project simultaneously.
+   - **Answer: B**
+
+2. **Which of the following commands is used to check the installed version of Git?**
+   - A) git version
+   - B) git --version
+   - C) git init
+   - D) git status
+   - **Answer: B**
+
+3. **In Git, what does the ‘git init’ command do?**
+   - A) Initializes a new remote repository.
+   - B) Initializes a local repository by creating a .git folder.
+   - C) Clones an existing repository from a remote server.
+   - D) Commits all changes in the working directory.
+   - **Answer: B**
+
+4. **Which of the following is a benefit of using version control in team projects?**
+   - A) It eliminates the need for testing.
+   - B) It enables multiple people to work on the same project without interfering with each other’s changes.
+   - C) It removes the need for regular backups.
+   - D) It restricts all changes to one person at a time.
+   - **Answer: B**
+
+5. **What happens if you try to commit changes in Git without configuring your user name and email?**
+   - A) Git will commit with a default name and email.
+   - B) Git will throw an error and prevent the commit.
+   - C) The commit will fail without any message.
+   - D) Git will assign a random user name and email to the commit.
+   - **Answer: B**
+
