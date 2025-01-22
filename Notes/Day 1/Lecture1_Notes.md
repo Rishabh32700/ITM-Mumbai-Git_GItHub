@@ -150,17 +150,17 @@ Imagine writing a group essay. Without version control, everyone might overwrite
 
 2. **Which of the following commands is used to check the installed version of Git?**
    - A) git version
-   - B) git --version
-   - C) git init
-   - D) git status
-   - **Answer: B**
+   - B) git init
+   - C) git status
+   - D) git --version
+   - **Answer: D**
 
 3. **In Git, what does the ‘git init’ command do?**
-   - A) Initializes a new remote repository.
-   - B) Initializes a local repository by creating a .git folder.
+   - A) Initializes a local repository by creating a .git folder.
+   - B) Initializes a new remote repository.
    - C) Clones an existing repository from a remote server.
    - D) Commits all changes in the working directory.
-   - **Answer: B**
+   - **Answer: A**
 
 4. **Which of the following is a benefit of using version control in team projects?**
    - A) It eliminates the need for testing.
@@ -171,8 +171,8 @@ Imagine writing a group essay. Without version control, everyone might overwrite
 
 5. **What happens if you try to commit changes in Git without configuring your user name and email?**
    - A) Git will commit with a default name and email.
-   - B) Git will throw an error and prevent the commit.
-   - C) The commit will fail without any message.
+   - B) The commit will fail without any message.
+   - C) Git will throw an error and prevent the commit.
    - D) Git will assign a random user name and email to the commit.
-   - **Answer: B**
+   - **Answer: C**
 
