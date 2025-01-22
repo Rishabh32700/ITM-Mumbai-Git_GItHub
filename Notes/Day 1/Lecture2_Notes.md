@@ -3,8 +3,6 @@
 
 ### Lecture 2: Understanding Git Basics
 
-# Git Basics: Detailed Theory and Practical Guide
-
 ## **Introduction to Git**
 Git is a free, open-source distributed version control system designed to manage the history of changes in files, typically source code in software development projects. It allows you to track modifications, coordinate work among multiple developers, and store multiple versions of a project. Unlike traditional version control systems, Git is distributed, meaning each user has a complete copy of the repository, including the project history.
 
